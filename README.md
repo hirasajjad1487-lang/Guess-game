@@ -1,2 +1,2 @@
 # Guess-game
-use python coding to create a game 
+Using python language to create an easy guessing game:)
